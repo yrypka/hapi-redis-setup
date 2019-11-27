@@ -1,0 +1,5 @@
+apidoc
+documents
+build
+package-lock.json
+.sequelizerc

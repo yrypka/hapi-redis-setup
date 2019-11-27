@@ -1,0 +1,12 @@
+# WebStorm config folder
+.idea
+
+# Dependency directories
+node_modules
+
+#config
+.env
+
+# JS files
+**/*.js
+**/*.map
