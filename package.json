@@ -11,12 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hapi/catbox": "^10.2.3",
+    "@hapi/catbox-redis": "^5.0.5",
     "@hapi/hapi": "^18.4.0",
     "rimraf": "^3.0.0",
     "typescript": "^3.7.2"
   },
   "devDependencies": {
+    "@types/hapi__catbox": "^10.2.2",
+    "@types/hapi__catbox-redis": "^5.0.0",
     "@types/hapi__hapi": "^18.2.6",
-    "@types/node": "^12.12.14"
+    "@types/node": "^12.12.14",
+    "nodemon": "^2.0.1"
   }
 }
