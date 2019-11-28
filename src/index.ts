@@ -26,7 +26,7 @@ const init = async () => {
         constructor: CatboxRedis,
         options: {
           partition: 'my_cached_data',
-          tls: {},
+          // tls: {},
         },
       },
     },
