@@ -13,7 +13,7 @@
   "dependencies": {
     "@hapi/catbox": "^10.2.3",
     "@hapi/catbox-redis": "^5.0.5",
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "rimraf": "^3.0.0",
     "typescript": "^3.7.2"
   },
